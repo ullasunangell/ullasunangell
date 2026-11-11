@@ -56,5 +56,4 @@ I'm a **Software Engineer** based in London, United Kingdom 🇬🇧, specializi
 - **Graduate Software Engineer at Berenberg Bank (2023–2024):** Rotated across IT Service Management, Equity Research Technology, CRM Technology, and Market Intelligence. Worked with the FIX protocol for electronic trading telemetry, designed FastAPI microservices, implemented OAuth 2.0 security patterns, and enforced automated test coverage with `pytest` across Bitbucket/Bamboo CI/CD pipelines.
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ullaangell)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ullasangell@gmail.com)
