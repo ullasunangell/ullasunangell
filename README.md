@@ -1,6 +1,6 @@
 # Heyy I'm Ulla! 🌺
 
-I'm a **Software Engineer** based in London, United Kingdom 🇬🇧, specializing in modular Python backends, AI/ML orchestration (local LLMs & cloud APIs), autonomous system architecture, and financial technology infrastructure.
+I'm a **Software Engineer** specializing in modular Python backends, AI/ML orchestration (local LLMs & cloud APIs), autonomous system architecture, and financial technology infrastructure.
 
 ## About Me
 - 🌍 **Location:** London, UK
