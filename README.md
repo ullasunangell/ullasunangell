@@ -5,8 +5,7 @@ I'm a **Software Engineer** based in London, United Kingdom 🇬🇧, specializi
 ## About Me
 - 🌍 **Location:** London, UK
 - 💼 **Background:** Software Engineer with financial services experience (Berenberg Bank) and independent AI/SaaS development (Angell Data Intelligence).
-- 🎓 **Education:** BSc Computing (First Class Honours) from the University of Greenwich.
-- ☁️ **Certifications:** AWS Certified Cloud Practitioner (CLF-C02).
+- 🎓 **Education:** BSc Computing (First Class Honours) from the University of Greenwich & AWS Certified Cloud Practitioner (CLF-C02).
 
 ## Technical Skills
 
