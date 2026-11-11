@@ -5,7 +5,7 @@ I'm a **Software Engineer** specializing in modular Python backends, AI/ML orche
 ## About Me
 - 🌍 **Location:** London, UK
 - 💼 **Background:** Software Engineer with financial services experience (Berenberg Bank) and independent AI/SaaS development (Angell Data Intelligence).
-- 🎓 **Education:** BSc Computing (First Class Honours) from the University of Greenwich & AWS Certified Cloud Practitioner (CLF-C02).
+- 🎓 **Education:** BSc Computing (First Class Honours) from the University of Greenwich & AWS Certified Cloud Practitioner [CLF-C02](https://www.credly.com/badges/2813c53a-2694-4ea1-a4a4-f2047e571a41/public_url).
 
 ## Technical Skills
 
